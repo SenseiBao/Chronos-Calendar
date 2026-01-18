@@ -1,0 +1,24 @@
+{
+  "name": "chronos-calendar",
+  "version": "1.0.0",
+  "description": "A smart calendar for smart people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenseiBao/Chronos-Calendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SenseiBao/Chronos-Calendar/issues"
+  },
+  "homepage": "https://github.com/SenseiBao/Chronos-Calendar#readme",
+  "devDependencies": {
+    "electron": "^40.0.0"
+  }
+}
